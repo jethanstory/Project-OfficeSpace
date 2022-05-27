@@ -1,2 +1,2 @@
 # Project-OfficeSpace
-Escape the office with your life
+3D Unity project about being trapped in an office with a murderous boss 
